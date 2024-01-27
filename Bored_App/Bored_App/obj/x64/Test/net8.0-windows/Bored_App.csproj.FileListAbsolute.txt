@@ -1,0 +1,17 @@
+C:\Users\jerem\Downloads\Bored_App\Bored_App\bin\x64\Test\net8.0-windows\Bored_App.exe
+C:\Users\jerem\Downloads\Bored_App\Bored_App\bin\x64\Test\net8.0-windows\Bored_App.deps.json
+C:\Users\jerem\Downloads\Bored_App\Bored_App\bin\x64\Test\net8.0-windows\Bored_App.runtimeconfig.json
+C:\Users\jerem\Downloads\Bored_App\Bored_App\bin\x64\Test\net8.0-windows\Bored_App.dll
+C:\Users\jerem\Downloads\Bored_App\Bored_App\bin\x64\Test\net8.0-windows\Bored_App.pdb
+C:\Users\jerem\Downloads\Bored_App\Bored_App\obj\x64\Test\net8.0-windows\Bored_App.Form1.resources
+C:\Users\jerem\Downloads\Bored_App\Bored_App\obj\x64\Test\net8.0-windows\Bored_App.Properties.Resources.resources
+C:\Users\jerem\Downloads\Bored_App\Bored_App\obj\x64\Test\net8.0-windows\Bored_App.csproj.GenerateResource.cache
+C:\Users\jerem\Downloads\Bored_App\Bored_App\obj\x64\Test\net8.0-windows\Bored_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Downloads\Bored_App\Bored_App\obj\x64\Test\net8.0-windows\Bored_App.AssemblyInfoInputs.cache
+C:\Users\jerem\Downloads\Bored_App\Bored_App\obj\x64\Test\net8.0-windows\Bored_App.AssemblyInfo.cs
+C:\Users\jerem\Downloads\Bored_App\Bored_App\obj\x64\Test\net8.0-windows\Bored_App.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Downloads\Bored_App\Bored_App\obj\x64\Test\net8.0-windows\Bored_App.dll
+C:\Users\jerem\Downloads\Bored_App\Bored_App\obj\x64\Test\net8.0-windows\refint\Bored_App.dll
+C:\Users\jerem\Downloads\Bored_App\Bored_App\obj\x64\Test\net8.0-windows\Bored_App.pdb
+C:\Users\jerem\Downloads\Bored_App\Bored_App\obj\x64\Test\net8.0-windows\Bored_App.genruntimeconfig.cache
+C:\Users\jerem\Downloads\Bored_App\Bored_App\obj\x64\Test\net8.0-windows\ref\Bored_App.dll
